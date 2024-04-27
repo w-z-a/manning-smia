@@ -32,6 +32,9 @@ public class Application {
 	}
 }
 
+/**
+ * my comment
+ */
 class HelloRequest{
 	
 	private String firstName;
